@@ -1,2 +1,1 @@
-# my-new-project
-Мой новый проект
+# My New Project
