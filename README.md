@@ -12,3 +12,8 @@ This is a simple project created to learn Git and GitHub.
 
 ## Contributing
 Feel free to open issues or submit pull requests to improve this project!
+
+## Future Features
+- Add support for multiple languages.
+- Create a blog section.
+- Add user authentication.

@@ -6,3 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
+// Log a message when the page is fully loaded
+document.addEventListener('DOMContentLoaded', () => { 
+    console.log('Page loaded!');
+});
