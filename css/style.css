@@ -10,3 +10,20 @@ button {
 button:hover {
     background-color: #45a049;
 }
+
+#about-us {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+#about-us h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+#about-us p {
+    font-size: 16px;
+    color: #555;
+}
