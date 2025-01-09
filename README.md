@@ -17,3 +17,7 @@ Feel free to open issues or submit pull requests to improve this project!
 - Add support for multiple languages.
 - Create a blog section.
 - Add user authentication.
+
+## Features  
+- About Us section with information about the project.  
+- Smooth scrolling for a better user experience.  
